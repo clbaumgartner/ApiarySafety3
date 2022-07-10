@@ -1,0 +1,109 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<manifest identifier="_5wyJMWn86d1_course_id" version="1.0" xmlns="http://www.imsproject.org/xsd/imscp_rootv1p1p2" xmlns:adlcp="http://www.adlnet.org/xsd/adlcp_rootv1p2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.imsproject.org/xsd/imscp_rootv1p1p2 imscp_rootv1p1p2.xsd http://www.imsglobal.org/xsd/imsmd_rootv1p2p1 imsmd_rootv1p2p1.xsd http://www.adlnet.org/xsd/adlcp_rootv1p2 adlcp_rootv1p2.xsd">
+  <metadata>
+    <schema>ADL SCORM</schema>
+    <schemaversion>1.2</schemaversion>
+    <lom xmlns="http://www.imsglobal.org/xsd/imsmd_rootv1p2p1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.imsglobal.org/xsd/imsmd_rootv1p2p1 imsmd_rootv1p2p1.xsd">
+      <general>
+        <title>
+          <langstring xml:lang="x-none">Considerations for Apiary Safety3</langstring>
+        </title>
+      </general>
+      <lifecycle>
+        <version>
+          <langstring xml:lang="x-none">1</langstring>
+        </version>
+        <status>
+          <source>
+            <langstring xml:lang="x-none">LOMv1.0</langstring>
+          </source>
+          <value>
+            <langstring xml:lang="x-none">Final</langstring>
+          </value>
+        </status>
+      </lifecycle>
+      <metametadata>
+        <metadatascheme>ADL SCORM 1.2</metadatascheme>
+      </metametadata>
+      <educational>
+        <typicallearningtime>
+          <datetime>PT0H0M0S</datetime>
+        </typicallearningtime>
+      </educational>
+      <rights>
+        <cost>
+          <source>
+            <langstring xml:lang="x-none">LOMv1.0</langstring>
+          </source>
+          <value>
+            <langstring xml:lang="x-none">yes</langstring>
+          </value>
+        </cost>
+        <copyrightandotherrestrictions>
+          <source>
+            <langstring xml:lang="x-none">LOMv1.0</langstring>
+          </source>
+          <value>
+            <langstring xml:lang="x-none">yes</langstring>
+          </value>
+        </copyrightandotherrestrictions>
+      </rights>
+    </lom>
+  </metadata>
+  <organizations default="Considerations_for_Apiary_Safety3_ORG">
+    <organization identifier="Considerations_for_Apiary_Safety3_ORG">
+      <title>Considerations for Apiary Safety3</title>
+      <item identifier="Considerations_for_Apiary_Safety_SCO" isvisible="true" identifierref="__5wyJMWn86d1_course_id_RES">
+        <title>Considerations for Apiary Safety3</title>
+      </item>
+    </organization>
+  </organizations>
+  <resources>
+    <resource identifier="__5wyJMWn86d1_course_id_RES" type="webcontent" href="index_lms.html" adlcp:scormtype="sco">
+      <file href="story_content/thumbnail.jpg" />
+      <file href="mobile/6XWQnzEb2xS_80_P_492_161_1555_874_DX2528_DY2528_CX1510_CY849.jpg" />
+      <file href="mobile/5uc43kNryPr_80_P_0_85_2048_1151_DX1920_DY1920_CX1510_CY849.jpg" />
+      <file href="mobile/6a5YV9HGm5w_80_P_-14_0_2062_1152_DX1932_DY1932_CX1519_CY849.jpg" />
+      <file href="mobile/64pK1f3RRys_80_DX1080_DY1080_CX565_CY849.jpg" />
+      <file href="mobile/5aavGJhpPzg_80_P_17_35_2013_1133_DX1952_DY1952_CX1508_CY849.jpg" />
+      <file href="mobile/6gpU0KYL50y_80_P_62_31_1985_1116_DX1980_DY1980_CX1510_CY849.jpg" />
+      <file href="meta.xml" />
+      <file href="story_content/user.js" />
+      <file href="html5/data/css/output.min.css" />
+      <file href="html5/data/js/5de96ZJFv8q.js" />
+      <file href="html5/data/js/5e5rpB2Ixys.js" />
+      <file href="html5/data/js/5kOWrtgQkiz.js" />
+      <file href="html5/data/js/5nHtmnAzWPn.js" />
+      <file href="html5/data/js/5tIUAb654Wo.js" />
+      <file href="html5/data/js/5tXdAVz8krV.js" />
+      <file href="html5/data/js/69qqOWsztvC.js" />
+      <file href="html5/data/js/6bpS4JGjZva.js" />
+      <file href="html5/data/js/6Bx60EJScZH.js" />
+      <file href="html5/data/js/6FY9XlVi112.js" />
+      <file href="html5/data/js/6gmOsCA1CBi.js" />
+      <file href="html5/data/js/6Jd7TRpzdOy.js" />
+      <file href="html5/data/js/6OeRmTJ0HwJ.js" />
+      <file href="html5/data/js/6Q5Xf85HYuW.js" />
+      <file href="html5/data/js/data.js" />
+      <file href="html5/data/js/frame.js" />
+      <file href="html5/data/js/paths.js" />
+      <file href="html5/lib/scripts/bootstrapper.min.js" />
+      <file href="html5/lib/scripts/frame.desktop.min.js" />
+      <file href="html5/lib/scripts/frame.mobile.min.js" />
+      <file href="html5/lib/scripts/slides.min.js" />
+      <file href="html5/lib/stylesheets/desktop.min.css" />
+      <file href="html5/lib/stylesheets/mobile.min.css" />
+      <file href="html5/lib/stylesheets/mobile-fonts/open-sans-bold.woff" />
+      <file href="html5/lib/stylesheets/mobile-fonts/open-sans-light.woff" />
+      <file href="html5/lib/stylesheets/mobile-fonts/open-sans-regular.woff" />
+      <file href="analytics-frame.html" />
+      <file href="story.html" />
+      <file href="index_lms.html" />
+      <file href="lms/AICCComm.html" />
+      <file href="lms/blank.html" />
+      <file href="lms/browsersniff.js" />
+      <file href="lms/goodbye.html" />
+      <file href="lms/scormdriver.js" />
+    </resource>
+  </resources>
+</manifest>
